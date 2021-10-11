@@ -1,0 +1,23 @@
+{
+    "name": "api_rest/api_php",
+    "description": "Api criada em php, que obtem os dados da uri",
+    "authors": [
+        {
+            "name": "Cauê Rafael Burgardt",
+            "email": "crburgardt@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "App"
+        },
+        "files": [
+            "config.php"
+        ]
+    },
+    "require": {},
+    "scripts":{
+        "server":"php -S localhost:8080 index.php",
+        "tests":"vendor/bin/phpunit test/"
+    }
+}
