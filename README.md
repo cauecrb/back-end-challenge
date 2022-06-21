@@ -23,21 +23,3 @@ Desenvolva uma **REST API** que faça conversão de moedas.
     * De Dólar para Real;
     * De Real para Euro;
     * De Euro para Real;
-* Serão executados testes automatizados para validação dos requisitos:
-   * Levantar servidor embutido do PHP: `php -S localhost:8000 index.php`;
-   * Executando testes: `composer test`;
-
-## Instruções
-
-1. Efetue o fork deste repositório e crie um branch com o seu nome e sobrenome. (exemplo: fulano-dasilva)
-2. Após finalizar o desafio, crie um Pull Request.
-3. Aguarde algum contribuidor realizar o code review.
-
-## Pré-requisitos
-
-* PHP >= 7.2
-* Orientado a objetos
-
-## Dúvidas
-
-Em caso de dúvidas, crie uma issue.
